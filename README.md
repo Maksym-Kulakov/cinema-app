@@ -1,4 +1,4 @@
-# 🎥 🕶️ Cinema-app 🕶️ 🎥
+# 🎥 Cinema-app 
 >Application that simulates a cinema service with the shopping cart and orders.
 >Supports authentication, registration and CRUD operations with user, order, shopping cart, movie, movie session and cinema hall.
 
