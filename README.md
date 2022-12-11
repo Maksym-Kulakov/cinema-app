@@ -3,10 +3,10 @@
 >Supports authentication, registration and CRUD operations with user, order, shopping cart, movie, movie session and cinema hall.
 
 ## 📃 Content
-- [How to start using](https://github.com/ira0807/cinema-app#-how-to-start-using)
-- [Project structure](https://github.com/ira0807/cinema-app#-project-structure)
-- [Features](https://github.com/ira0807/cinema-app#-features)
-- [Technologies](https://github.com/ira0807/cinema-app#-technologies)
+- [How to start using] 
+- [Project structure] 
+- [Features] 
+- [Technologies] 
 
 ## ⚙ How to start using
 
